@@ -8,3 +8,7 @@
 4. masuk ke github, bikin repository nya (disarankan jangan buat file readme)
 5. balik ke bash, tambah remote nya
    git remote add origin <url_yang_dari_github>
+6. cek
+   git remote
+7. kalau sudah oke dan commit, tinggal push
+   git push -u origin master
