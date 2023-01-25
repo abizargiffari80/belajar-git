@@ -1,1 +1,20 @@
-nambah yg kedua
+1. Buat repo di github, pake readme juga gapapa
+2. Copy ssh url
+3. Masuk ke folder di windows, buka bash, lalu masukkan
+   git clone urlnya
+4. Masuk lagi ke folder nya, lalu cek dengan
+   git remote
+   git remote -v
+5. (optional) bikin visualisasi untuk graph nya
+   alias graph="git log --all --decorate --oneline --graph"
+6. (optional) kalau mau liat graph nya
+   graph
+7. cek status pakai
+   git status
+8. add file yang baru-baru
+   git add .			-> kalau mau nambah semua
+   git add <namafilenya>	-> kalau cuma file spesifik
+9. commit perubahan nya dan jangan lupa -m untuk message nya
+   git commit -m "pesan-nya"
+10. udah commit lansung push aja cuy
+    git push
