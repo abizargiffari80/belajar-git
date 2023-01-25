@@ -12,3 +12,5 @@
    git remote
 7. kalau sudah oke dan commit, tinggal push
    git push -u origin master
+8. nah nanti setelah edit2, dan sudah commit, langsung push
+   git push
