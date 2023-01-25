@@ -1,0 +1,5 @@
+misal kita edit di lokal, tapi di repo udah merge yg baru
+1. buat file baru/edit/hapus di repo (langsung di github) dan commit
+2. edit/tambah file baru di lokal kita
+3. add dan commit seperti biasa
+4. push perubahan, disini pasti akan ada error
