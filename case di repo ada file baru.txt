@@ -3,3 +3,9 @@ misal kita edit di lokal, tapi di repo udah merge yg baru
 2. edit/tambah file baru di lokal kita
 3. add dan commit seperti biasa
 4. push perubahan, disini pasti akan ada error
+5. fetch dulu yang dari repo (untuk cek repo yg ada di remote udh sampe mana commit nya)
+   git fetch
+6. lalu pull
+   git pull
+7. disini akan ada merge conflict (pilih mau pakai update an yg mana)
+8. kalau sudah oke dan di resolve lalu seperti biasa add, commit, dan push 
